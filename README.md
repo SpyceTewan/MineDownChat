@@ -1,3 +1,21 @@
+# Minedown Chat
+This is an implementation of the Minedown library that allows users to write minedown in chat. 
+
+### Permissions
+| Permission Name | Info |
+| --- | --- |
+| minedown.all | Grants all minedown formatting |
+| minedown.color | Lets you use color formatting |
+| minedown.basic.bold | Lets you write in bold |
+| minedown.basic.italic | Lets you write in italic |
+| minedown.basic.underlined | Lets you write underlines |
+| minedown.basic.strikethrough | Lets you write strikethrough |
+| minedown.basic.obfuscated | Lets you write obfuscated |
+| minedown.basic.all | Lets you write in bold, italic, underlined, strikethrough and obfuscated
+| minedown.event.link | Lets you embed links |
+| minedown.event.command | Lets you embed commands |
+| minedown.event.hover | Enables hover attributes for `minedown.event.link` and `minedown.event.command` |
+
 # Minedown
 A library that adds the ability to use a MarkDown inspired markup to write Minecraft chat components!
 
