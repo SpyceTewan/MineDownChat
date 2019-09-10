@@ -1,0 +1,8 @@
+main: at.tewan.minedownchat.Main
+name: MinedownChat
+version: "1.0"
+description: Minedown chat integration
+author: Tewan
+website: https://github.com/SpyceTewan/MineDownChat
+depend:
+  - PlaceholderAPI
